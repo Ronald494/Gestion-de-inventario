@@ -2,7 +2,7 @@
 using System.Data;
 using Microsoft.Data.SqlClient;
 
-namespace NombreDeTuProyecto
+namespace Inventario
 {
     internal class Program
     {
