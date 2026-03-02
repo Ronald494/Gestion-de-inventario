@@ -1,1 +1,1 @@
-# Gestion de inventario
+# Gestior de inventario
